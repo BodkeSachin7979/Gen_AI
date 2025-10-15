@@ -1,105 +1,91 @@
 # 🧠 Mathematics for Generative AI Mastery  
 ### 🚀 Learn Smarter, Not Harder (80/20 Rule + 2 Hours a Day Strategy)
 
-This roadmap is designed to build **Mathematical Expertise for AI → ML → DL → GenAI** in a **structured, time-efficient, and outcome-focused** way.
+This roadmap builds **Mathematical Expertise for AI → ML → DL → GenAI** using only the **20% of math** that produces **80% of AI results.**
 
-It follows the formula:  
-> **Structure + Speed + Execution = Goal Achievement**
-
-and the **Pareto Principle (80/20 Rule)**:
-> ✅ Focus on the 20% of math that gives 80% of real-world AI impact.
-
----
-
-## 📚 Learning Formula
-
-| Element | Description |
-|----------|--------------|
-| **Structure** | Learn in phases: AI → ML → DL → GenAI |
-| **Speed** | 2 hours daily focused sessions |
-| **Execution** | Apply each concept with coding + visualization |
+> 📘 Formula: **Structure + Speed + Execution = Goal Achieved**
 
 ---
 
 ## 🧩 PHASE 1 — Mathematics for AI (Foundation)
-> **Goal:** Build mathematical intuition & visualization skills for AI.
+> **Goal:** Build intuition for numbers, functions, and data.
 
-| Focus Area | 80/20 Key Topics | Outcome |
-|-------------|------------------|----------|
-| **Arithmetic & Algebra** | Exponents, Logarithms, Linear Equations | Simplify model calculations |
-| **Functions & Graphs** | Linear, Polynomial, Exponential | Understand activation and cost curves |
-| **Basic Statistics** | Mean, Variance, Correlation | Data pattern understanding |
-| **Visualization** | Matplotlib, Desmos, GeoGebra | Visualize functions & data trends |
+| Topic | Description | Best 80/20 Resources |
+|--------|--------------|----------------------|
+| **Arithmetic & Algebra** | Exponents, Logarithms, Linear Equations | 🔗 [Khan Academy Algebra Course](https://www.khanacademy.org/math/algebra) <br> 🎥 [Algebra in 20 Minutes - The Organic Chemistry Tutor](https://www.youtube.com/watch?v=H05xQ8C1C_o) |
+| **Functions & Graphs** | Linear, Polynomial, Exponential | 🎥 [Understanding Functions Visually (3Blue1Brown)](https://www.youtube.com/watch?v=kvDHzTqEG_M) <br> 🔗 [Desmos Graphing Tool](https://www.desmos.com/calculator) |
+| **Basic Statistics** | Mean, Variance, Correlation | 🎥 [Statistics Full Crash Course](https://www.youtube.com/watch?v=xxpc-HPKN28) <br> 🔗 [Khan Academy: Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) |
+| **Visualization** | Plotting & intuition building | 🧮 [Matplotlib Tutorial for Beginners (freeCodeCamp)](https://www.youtube.com/watch?v=3Xc3CA655Y4) <br> 🧠 [GeoGebra Graph Visualizer](https://www.geogebra.org/graphing) |
 
-**⏱ Time:** ~10 days (2 hrs/day)  
-**🎯 Output:** Comfort with number intuition & function patterns.
+🕒 **Duration:** 10 days (2 hrs/day)  
+🎯 **Outcome:** Comfort with mathematical intuition & data visualization.
 
 ---
 
 ## 🔢 PHASE 2 — Mathematics for Machine Learning
-> **Goal:** Learn the math powering ML algorithms.
+> **Goal:** Build the mathematical backbone for ML algorithms.
 
-| Focus Area | 80/20 Key Topics | Outcome |
-|-------------|------------------|----------|
-| **Linear Algebra** | Vectors, Matrices, Matrix Multiplication, Eigenvalues | Foundation for model representation |
-| **Probability** | Bayes Theorem, Random Variables, Conditional Probability | Understanding uncertainty in predictions |
-| **Statistics for ML** | Mean, Variance, Standard Deviation, Sampling | Building intuition for training data |
-| **Optimization** | Gradient, Derivative, Cost Minimization | Core of model training |
+| Topic | Description | Best 80/20 Resources |
+|--------|--------------|----------------------|
+| **Linear Algebra** | Vectors, Matrices, Eigenvalues | 🎥 [Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) <br> 🧾 [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra) |
+| **Probability** | Bayes Theorem, Random Variables | 🎥 [StatQuest: Bayes Theorem Simply Explained](https://www.youtube.com/watch?v=HZGCoVF3YvM) <br> 🧠 [Khan Academy Probability Basics](https://www.khanacademy.org/math/statistics-probability/probability-library) |
+| **Statistics for ML** | Mean, Variance, Sampling | 🧾 [Crash Course: Statistics for Data Science](https://www.youtube.com/watch?v=xxpc-HPKN28) <br> 🧮 [Practical Stats for Data Scientists (Book PDF)](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/) |
+| **Optimization** | Gradient, Derivatives | 🎥 [Gradient Descent Explained (StatQuest)](https://www.youtube.com/watch?v=sDv4f4s2SB8) <br> 🧠 [Gradient Descent from Scratch (Towards Data Science)](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3) |
 
-**⏱ Time:** ~15 days (2 hrs/day)  
-**🎯 Output:** Able to interpret & implement ML equations.
+🕒 **Duration:** 15 days (2 hrs/day)  
+🎯 **Outcome:** Understand ML equations and implement model math.
 
 ---
 
 ## 🔺 PHASE 3 — Mathematics for Deep Learning
-> **Goal:** Dive deeper into continuous math used in neural networks.
+> **Goal:** Understand the continuous math powering neural networks.
 
-| Focus Area | 80/20 Key Topics | Outcome |
-|-------------|------------------|----------|
-| **Calculus** | Derivatives, Partial Derivatives, Chain Rule | Backbone of backpropagation |
-| **Vector Calculus** | Gradients, Jacobians | Multidimensional optimization |
-| **Optimization Methods** | Gradient Descent, Adam Optimizer | Efficient learning techniques |
-| **Probability Distributions** | Gaussian, Softmax, Cross-Entropy | Model prediction behavior |
+| Topic | Description | Best 80/20 Resources |
+|--------|--------------|----------------------|
+| **Calculus** | Derivatives, Chain Rule | 🎥 [Essence of Calculus (3Blue1Brown)](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) <br> 🧾 [Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1) |
+| **Vector Calculus** | Gradients, Jacobians | 🧮 [Vector Calculus for Machine Learning](https://towardsdatascience.com/vector-calculus-for-machine-learning-b7b7b497af3c) <br> 🎥 [Jacobians Simplified](https://www.youtube.com/watch?v=u7KjKJuGZb4) |
+| **Optimization Methods** | Gradient Descent, Adam | 🎥 [Optimization in Deep Learning (DeepLearning.ai)](https://www.youtube.com/watch?v=qSt3x_qE7ZI) <br> 🧠 [Adam Optimizer Explained (Ruder)](https://arxiv.org/pdf/1609.04747.pdf) |
+| **Probability Distributions** | Gaussian, Softmax, Cross-Entropy | 🎥 [StatQuest: Distributions Explained](https://www.youtube.com/watch?v=8idr1WZ1A7Q) <br> 🧠 [Softmax & Cross-Entropy in Deep Learning](https://towardsdatascience.com/softmax-and-cross-entropy-in-machine-learning-cf7d8f5944e2) |
 
-**⏱ Time:** ~20 days (2 hrs/day)  
-**🎯 Output:** Ability to explain and derive neural network training steps.
+🕒 **Duration:** 20 days (2 hrs/day)  
+🎯 **Outcome:** Master neural network training logic.
 
 ---
 
 ## 🧬 PHASE 4 — Mathematics for Generative AI
-> **Goal:** Understand the math behind modern GenAI models (LLMs, Diffusion, GANs).
+> **Goal:** Learn the math that drives modern LLMs, Diffusion, and GANs.
 
-| Focus Area | 80/20 Key Topics | Outcome |
-|-------------|------------------|----------|
-| **Information Theory** | Entropy, KL Divergence, Mutual Information | Used in loss functions for LLMs |
-| **Matrix Factorization** | SVD, PCA | Dimensionality reduction & embeddings |
-| **Probability in Generative Models** | Likelihood, Sampling, Markov Chains | Modeling text/image generation |
-| **Transformers Math** | Attention Mechanism, Softmax, Dot Product | Foundation of GPT & modern LLMs |
+| Topic | Description | Best 80/20 Resources |
+|--------|--------------|----------------------|
+| **Information Theory** | Entropy, KL Divergence | 🎥 [StatQuest: KL Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8) <br> 📘 [Information Theory for Deep Learning (Blog)](https://towardsdatascience.com/a-friendly-introduction-to-information-theory-d1c506b1bda8) |
+| **Matrix Factorization** | PCA, SVD | 🎥 [StatQuest: PCA Clearly Explained](https://www.youtube.com/watch?v=FgakZw6K1QQ) <br> 🧠 [SVD and Embeddings (3Blue1Brown)](https://www.youtube.com/watch?v=P5mlg91as1c) |
+| **Probabilistic Modeling** | Likelihood, Sampling | 🎥 [Probability Distributions and Sampling (StatQuest)](https://www.youtube.com/watch?v=IiDHTIsmUi4) <br> 🧾 [Markov Chains Explained Visually](https://setosa.io/ev/markov-chains/) |
+| **Transformers Math** | Attention, Softmax, Dot Product | 🎥 [Attention Mechanism Explained (Jay Alammar)](https://www.youtube.com/watch?v=rBCqOTEfxvg) <br> 🧠 [Illustrated Transformer (Jay Alammar Blog)](https://jalammar.github.io/illustrated-transformer/) |
 
-**⏱ Time:** ~25 days (2 hrs/day)  
-**🎯 Output:** Strong mathematical base for working with or building GenAI models.
+🕒 **Duration:** 25 days (2 hrs/day)  
+🎯 **Outcome:** Understand and build mathematical intuition for GenAI models.
 
 ---
 
-## ⚡ Speed Strategy (2 Hours a Day)
+## ⚡ 2-Hour Daily Routine
 
 | Time | Task | Focus |
 |------|------|-------|
-| **0–15 mins** | Quick revision of yesterday | Retention |
-| **15–60 mins** | Learn 1 core 80/20 topic | Deep focus |
-| **60–90 mins** | Apply in notebook / visualize | Active learning |
-| **90–120 mins** | Reflect + summarize | Reinforcement |
+| **0–15 mins** | Review previous concept | Retention |
+| **15–60 mins** | Study one 80/20 topic | Focus |
+| **60–90 mins** | Apply it in notebook (code or visualize) | Execution |
+| **90–120 mins** | Summarize or teach back | Reinforcement |
 
 ---
 
-## 🧮 Tools & Resources
+## 🧮 Essential Tools
 
 | Category | Tools |
 |-----------|--------|
-| **Computation** | Python (NumPy, SciPy, SymPy) |
+| **Computation** | Python, NumPy, SciPy, SymPy |
 | **Visualization** | Matplotlib, Seaborn |
-| **Practice** | Khan Academy, Brilliant.org, 3Blue1Brown |
-| **Applied Math** | Google Colab, Jupyter Notebook |
+| **Practice Platforms** | Khan Academy, Brilliant.org, 3Blue1Brown |
+| **Implementation** | Jupyter Notebook, Google Colab |
 
 ---
 
@@ -107,42 +93,28 @@ and the **Pareto Principle (80/20 Rule)**:
 
 > “Don’t memorize formulas — understand their purpose.”
 
-- Visualize every equation.
-- Connect math → code → AI output.
-- Revisit concepts every 7 days.
-- Focus on *why* before *how*.
+- Visualize before you calculate.  
+- Link every formula → code → model behavior.  
+- Review every 7 days.  
+- Focus on intuition, not memorization.  
 
 ---
 
-## 🏁 Final Goal
+## 🏁 Final Outcome
 
-By the end of this roadmap, you’ll:
-- Understand **how AI models think mathematically**.  
-- Be capable of **deriving and debugging model logic**.  
-- Have a **mathematical intuition** aligned with AI engineering.  
-
----
-
-### 📅 Summary Table
-
-| Phase | Focus | Duration | Key Skills |
-|--------|--------|-----------|-------------|
-| AI | Arithmetic, Algebra, Graphs | 10 days | Mathematical intuition |
-| ML | Linear Algebra, Probability | 15 days | Algorithm understanding |
-| DL | Calculus, Optimization | 20 days | Neural network reasoning |
-| GenAI | Information Theory, Transformers | 25 days | Generative model math |
+After completing this roadmap, you’ll:
+- Grasp **the mathematical core of all AI systems**.  
+- Be capable of **explaining neural architectures logically**.  
+- Confidently **transition to building & tuning GenAI models**.
 
 ---
 
-### 🧩 Formula for Success  
+## 🧩 Formula for Success  
 > **Structure + Speed + Execution = Goal Achieved**  
 > **(20% Math → 80% AI Mastery)**
 
 ---
 
-### 🧠 Author  
+### 👨‍💻 Author  
 **Sachin Bodke**  
 *Full-Stack Python & AI Developer | Building AI Agents | Passionate about Mathematical Intelligence*
-
----
-
